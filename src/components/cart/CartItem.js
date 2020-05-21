@@ -14,12 +14,17 @@ export default function CartItem({item,value}) {
             {title}
             </div>
             <div className="col-10 mx-auto col-lg-2">
-            <span className="col-lg-none">price:</span>
-            {title}
+            <span className="col-lg-none">prix:</span>
+            {price}
             </div>
             <div className="col-10 mx-auto col-lg-2 my-2 my-lg-0">
-            <span className="col-lg-none">price:</span>
-            {title}
+            <div className="d-flex justify-content-center">
+            <span className="btn btn-black mx-1" onClick={()=>decrement(id)}> 
+            
+            </span>
+
+            </div>
+            
             </div>
         
         </div>
