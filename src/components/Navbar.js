@@ -14,7 +14,7 @@ export default class Navbar extends Component {
               <img src={imagelogo} alt="store"width="50px" className="navbar-brand"/>
              </Link>
              <ul className="navbar-nav align-items-center">
-                 <li className="nav-item ml-3">
+                 <li className="nav-item ml-2">
                      <Link to="/" className="nav-link" >
                          Product
                      </Link>
@@ -22,7 +22,7 @@ export default class Navbar extends Component {
              </ul>
              <Link to="/cart" className="ml-auto">
               <ButtonContainer>
-                 <span className="mr-2">
+                 <span className="mr-1">
                 <FaCartArrowDown />
                 </span> 
                 my Cart
