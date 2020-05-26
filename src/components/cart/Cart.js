@@ -7,6 +7,7 @@ import CartList from './CartList';
 import CarTotal from './CarTotal';
 
 export default class  extends Component {
+ 
     render() {
         return (
             <section>
@@ -20,6 +21,7 @@ export default class  extends Component {
                               <Title name="your" title="cart"/>
                               <CartColumns />
                               <CartList value={value}/>
+                              <CarTotal value={value}/>
                             </React.Fragment>
                             
                              
