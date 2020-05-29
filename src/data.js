@@ -1,7 +1,7 @@
 export const storeProducts=[
 {
     id:1,
-    title:"Samsung Galaxy A10" ,
+    title:"Samsung Galaxy " ,
     img: "img/product-1.jpg",
     price:100000,
     company:"Samsung ",
@@ -13,7 +13,7 @@ export const storeProducts=[
 },
 {
     id:2,
-    title:"Samsung Galaxy A10" ,
+    title:"techno" ,
     img: "img/product-2.jpg",
     price:100000,
     company:"Samsung ",
@@ -24,7 +24,7 @@ export const storeProducts=[
     totat:0
 },
 {  id:3,
-    title:"Samsung Galaxy A10" ,
+    title:"Invens L1" ,
     img: "img/product-3.jpg",
     price:100000,
     company:"Samsung ",
@@ -36,7 +36,7 @@ export const storeProducts=[
 },
 {
     id:4,
-    title:"Samsung Galaxy A10" ,
+    title:"tecno spark" ,
     img: "img/product-4.jpg",
     price:100000,
     company:"Samsung ",
@@ -48,7 +48,7 @@ export const storeProducts=[
 },
 {
     id:5,
-    title:"Samsung Galaxy A10" ,
+    title:"tecno pouvoir4" ,
     img: "img/product-5.jpg",
     price:100000,
     company:"Samsung ",
@@ -60,7 +60,7 @@ export const storeProducts=[
 },
 {
     id:6,
-    title:"Samsung Galaxy A10" ,
+    title:"Samsung " ,
     img: "img/product-6.jpg",
     price:100000,
     company:"Samsung ",
@@ -72,7 +72,7 @@ export const storeProducts=[
 },
 {
     id:7,
-    title:"Samsung Galaxy A10" ,
+    title:"techno pouvoir 4" ,
     img: "img/product-7.jpg",
     price:100000,
     company:"Samsung ",
@@ -84,7 +84,7 @@ export const storeProducts=[
 },
 {
     id:8,
-    title:"Samsung Galaxy A10" ,
+    title:"Samsung Galaxy " ,
     img: "img/product-8.jpg",
     price:100000,
     company:"Samsung ",
