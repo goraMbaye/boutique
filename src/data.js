@@ -3,7 +3,7 @@ export const storeProducts=[
     id:1,
     title:"Samsung Galaxy " ,
     img: "img/product-1.jpg",
-    price:100000,
+    price:10000,
     company:"Samsung ",
     info:
     "En ce qui concerne l’optique, le Samsung Galaxy A10 est équipé d’un appareil photo principal de 13 MP, capable de produire de superbes images claires avec un très grand angle. La caméra secondaire de 5MP peut capturer des selfies plus réels et naturels à la fois à la lumière du soleil et à l’ombre. L'appareil est livré avec la connexion 4G-VoLTE dans les deux emplacements. Il dispose également de fonctionnalités de connectivité telles que Wi-Fi, point d'accès mobile, Bluetooth, GPS, Glonass et bien d'autres. ",
@@ -15,7 +15,7 @@ export const storeProducts=[
     id:2,
     title:"techno" ,
     img: "img/product-2.jpg",
-    price:100000,
+    price:15000,
     company:"Samsung ",
     info:
     "En ce qui concerne l’optique, le Samsung Galaxy A10 est équipé d’un appareil photo principal de 13 MP, capable de produire de superbes images claires avec un très grand angle. La caméra secondaire de 5MP peut capturer des selfies plus réels et naturels à la fois à la lumière du soleil et à l’ombre. L'appareil est livré avec la connexion 4G-VoLTE dans les deux emplacements. Il dispose également de fonctionnalités de connectivité telles que Wi-Fi, point d'accès mobile, Bluetooth, GPS, Glonass et bien d'autres. ",
@@ -38,7 +38,7 @@ export const storeProducts=[
     id:4,
     title:"tecno spark" ,
     img: "img/product-4.jpg",
-    price:100000,
+    price:40000,
     company:"Samsung ",
     info:
     "En ce qui concerne l’optique, le Samsung Galaxy A10 est équipé d’un appareil photo principal de 13 MP, capable de produire de superbes images claires avec un très grand angle. La caméra secondaire de 5MP peut capturer des selfies plus réels et naturels à la fois à la lumière du soleil et à l’ombre. L'appareil est livré avec la connexion 4G-VoLTE dans les deux emplacements. Il dispose également de fonctionnalités de connectivité telles que Wi-Fi, point d'accès mobile, Bluetooth, GPS, Glonass et bien d'autres. ",
@@ -62,7 +62,7 @@ export const storeProducts=[
     id:6,
     title:"Samsung " ,
     img: "img/product-6.jpg",
-    price:100000,
+    price:1000,
     company:"Samsung ",
     info:
     "En ce qui concerne l’optique, le Samsung Galaxy A10 est équipé d’un appareil photo principal de 13 MP, capable de produire de superbes images claires avec un très grand angle. La caméra secondaire de 5MP peut capturer des selfies plus réels et naturels à la fois à la lumière du soleil et à l’ombre. L'appareil est livré avec la connexion 4G-VoLTE dans les deux emplacements. Il dispose également de fonctionnalités de connectivité telles que Wi-Fi, point d'accès mobile, Bluetooth, GPS, Glonass et bien d'autres. ",
@@ -74,7 +74,7 @@ export const storeProducts=[
     id:7,
     title:"techno pouvoir 4" ,
     img: "img/product-7.jpg",
-    price:100000,
+    price:30000,
     company:"Samsung ",
     info:
     "En ce qui concerne l’optique, le Samsung Galaxy A10 est équipé d’un appareil photo principal de 13 MP, capable de produire de superbes images claires avec un très grand angle. La caméra secondaire de 5MP peut capturer des selfies plus réels et naturels à la fois à la lumière du soleil et à l’ombre. L'appareil est livré avec la connexion 4G-VoLTE dans les deux emplacements. Il dispose également de fonctionnalités de connectivité telles que Wi-Fi, point d'accès mobile, Bluetooth, GPS, Glonass et bien d'autres. ",
@@ -86,7 +86,7 @@ export const storeProducts=[
     id:8,
     title:"Samsung Galaxy " ,
     img: "img/product-8.jpg",
-    price:100000,
+    price:70000,
     company:"Samsung ",
     info:
     "En ce qui concerne l’optique, le Samsung Galaxy A10 est équipé d’un appareil photo principal de 13 MP, capable de produire de superbes images claires avec un très grand angle. La caméra secondaire de 5MP peut capturer des selfies plus réels et naturels à la fois à la lumière du soleil et à l’ombre. L'appareil est livré avec la connexion 4G-VoLTE dans les deux emplacements. Il dispose également de fonctionnalités de connectivité telles que Wi-Fi, point d'accès mobile, Bluetooth, GPS, Glonass et bien d'autres. ",
