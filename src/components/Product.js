@@ -21,7 +21,7 @@ export default class Product extends Component {
                         value.openModal(id)}}>
                        {inCart ?(<p className="text-capitalize mb-0" disabled>
                            {""}
-                           in Cart
+                           Dans un chariot
                        </p>
                        ):( 
                         <FaCartArrowDown />
@@ -35,8 +35,8 @@ export default class Product extends Component {
                          {title}
                      </p>
                      <h5 className="text-blue font-italic mb-0">
-                         <span className="mr-1">$</span>
                          {price}
+                         <span className="mr-1">Fr</span>
                      </h5>
                  </div>
                 </div>
