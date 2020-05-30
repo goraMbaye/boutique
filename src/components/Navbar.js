@@ -25,7 +25,7 @@ export default class Navbar extends Component {
                  <span className="mr-1">
                 <FaCartArrowDown />
                 </span> 
-                Cart
+                Chariot
 
               </ButtonContainer>   
              </Link>
